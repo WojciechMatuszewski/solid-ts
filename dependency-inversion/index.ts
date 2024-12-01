@@ -1,5 +1,5 @@
 /**
- * Dependency inversion is all about _depending on abstractions_ rather than _concrete implementations_.
+ * The Dependency Inversion_ principle is all about _depending on abstractions_ rather than _concrete implementations_.
  *
  * This means that _high-level_ modules should not depend on _low-level_ modules and vice-versa.
  * If do you this, you will have much easier time refactoring and testing your code.
